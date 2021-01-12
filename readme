@@ -1,3 +1,5 @@
 Barebones WORKING NVIDIA driver for desktop Pascal GPUs (GTX 10xx) series.
 
 Windows 10 64-bit OS
+
+"Barebones driver" meaning everything removed (bloat, telemetry) except for core files (graphics driver, physx)
